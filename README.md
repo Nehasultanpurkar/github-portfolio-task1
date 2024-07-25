@@ -55,6 +55,4 @@ Extracurricular Activities
 
 Future Goals
 
-I am eager to apply my skills in [specific area or industry] and continue growing as a professional in the field of computer science and engineering. I am particularly interested in [mention any specific technologies, fields, or types of projects you are passionate about].
-
-Feel free to adjust this template to match your experiences and highlight what you find most important. Good luck with your portfolio!
+I am eager to apply my skills in [specific area or industry] and continue growing as a professional in the field of computer science and engineering.
